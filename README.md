@@ -3,7 +3,7 @@
 ### 基本信息
 
 - 我叫**筱夕**，你可以直接叫我**夕**，也可以叫我**Sushi**，你喜欢就好
-- 我来自[**中国**](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)，是一位[**在读高中生**](https://dgyz.dgjy.net/index.htm)
+- 我来自[**中国**](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD)，是一位[**在读大学生**](https://gdaib.edu.cn/)
 - 网络皮套是一个中性偏女性的猫猫，现实是一个肥宅
 
 ### 自设
