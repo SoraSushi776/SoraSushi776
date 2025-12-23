@@ -20,11 +20,11 @@
 
 ### 参与项目
 
-- ~~[DLCE（跳舞的线社区版）](https://aaron8052.github.io/FengYan-Documentation/#/dlce-group) 技术开发、后端开发~~（曾经负责）
+- [DLCE（跳舞的线社区版）](https://aaron8052.github.io/FengYan-Documentation/#/dlce-group) 技术开发
 - [Azure Network](https://www.bilibili.com/video/BV1AW4y1j7xM) 技术开发、服务器建设、服务器管理
-- ~~[Froztim](https://www.bilibili.com/video/BV1uU4y1i7Cm) 游戏设计、游戏开发~~（该项目目前处于烂尾阶段）
 - [DLMTP](https://space.bilibili.com/3493089631013235) 游戏后端开发、游戏制作 
 - 云霄数字孪生开发
+- ~~[Froztim](https://www.bilibili.com/video/BV1uU4y1i7Cm) 游戏设计、游戏开发~~（该项目目前处于烂尾阶段）
 
 ### 擅长领域
 
